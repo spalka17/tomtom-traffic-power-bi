@@ -28,11 +28,15 @@ The first page provides an overview of traffic conditions around the world and h
 
 An interactive map shows the geographic distribution of the highest-ranked cities and allows their key traffic indicators to be compared.
 
+![Global Traffic Ranking](screenshots/01-global-traffic-ranking.png)
+
 ### 2. Colombia vs Europe & Poland
 
 The second page focuses on comparing **Colombia, Europe and Poland**.
 
 It highlights differences in average travel time per 10 km and compares Colombia with high-ranking cities from Europe and Poland, including London and Wrocław.
+
+![Colombia vs Europe & Poland](screenshots/02-colombia-vs-europe-poland.png)
 
 ### 3. Colombian Cities - Deep Dive
 
@@ -51,6 +55,8 @@ The cities can be compared by:
 A dynamic selector allows users to switch between key traffic indicators within a single visual, while custom tooltips provide additional details for each city.
 
 The page also compares Colombia's average travel time with the corresponding averages for Europe and Poland.
+
+![Colombian Cities - Deep Dive](screenshots/03-colombian-cities-deep-dive.png)
 
 ## Key Insights
 
