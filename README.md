@@ -1,5 +1,7 @@
 # TomTom Traffic Analysis 2024
 
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmJhYjI1OTYtZDdkNi00ZmZiLWFiM2YtMGY1MTFlMGE1YzY0IiwidCI6Ijc1YzJlNGQ0LWQwNGMtNGNlOS1hMGVhLWM5NzViZGM0MTdlYiIsImMiOjF9&embedImagePlaceholder=true)
+
 ## Project Overview
 
 This project explores urban traffic conditions worldwide using data from the **TomTom Traffic Index 2024**. The goal was to compare travel times and congestion levels across cities and identify the places facing the greatest traffic challenges.
