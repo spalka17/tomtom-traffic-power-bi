@@ -1,6 +1,6 @@
 # TomTom Traffic Analysis 2024
 
-[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmJhYjI1OTYtZDdkNi00ZmZiLWFiM2YtMGY1MTFlMGE1YzY0IiwidCI6Ijc1YzJlNGQ0LWQwNGMtNGNlOS1hMGVhLWM5NzViZGM0MTdlYiIsImMiOjF9&embedImagePlaceholder=true)
+[View Interactive Power BI Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiNmE5MDM5ZjYtNTk1Yi00M2VhLWJhYTktYjI2ZDQzMDUyYzBjIiwidCI6IjI3ZWI2YjZjLWRhZWQtNDFkMS05NTJhLTM0ZDY0MjgzZWFhNSJ9&embedImagePlaceholder=true)
 
 ## Project Overview
 
